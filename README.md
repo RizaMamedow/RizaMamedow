@@ -1,12 +1,12 @@
-<h1 align="center">Привет! 👋</h1>
-
+<h1 align="center">Привет! <img src="https://slackmojis.com/emojis/6864-blob_hug/image/1643514684/blob_hug.png" alt="Hug" width="30"/> </h1>
+    
 <p align="center">
-    <b>Добро Пожаловать на мою страницу</b><br><br>
+    <b>Добро Пожаловать на мою страницу></b><br><br>
     <i>
         Я Риза.<br>
         На данный момент учусь в школе.<br>
         хочу найти работу програмимста.<br>
-        живу в Ашхабаде.<br>
+        живу в Ашхабаде. <img src="https://slackmojis.com/emojis/65719-turkmenistan/image/1683101837/turkmenistan.gif" alt="Flag" width="30"><br>
     </i><br>
     <a href="https://habr.com/ru/users/RizaMamedow/">
         <img src="https://img.shields.io/badge/Habr-blue?style=flat-square&logo=Habr" alt="Habr">
@@ -19,25 +19,25 @@
     </a>
     <a href="https://www.sololearn.com/profile/12504475">
         <img src="https://img.shields.io/badge/Sololearn-blue?style=flat-square&logo=Sololearn" alt="LeetCode">
-    </a>
+    </a><br/><br/>
+    <i>Это список Технологий, Фреймворков и Библиотек с которыми я знаком</i>
+    <p>      
+      <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+      <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+      <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+      <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img alt="Django" src="https://img.shields.io/badge/-Django-13aa52?style=flat-square&logo=django&logoColor=white" />
+      <img alt="MaterialUI" src="https://img.shields.io/badge/-MaterialUI-2659ff?style=flat-square&logo=mui&logoColor=white" />
+      <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-c530e3?style=flat-square&logo=bootstrap&logoColor=white" />
+      <img alt="Expressjs" src="https://img.shields.io/badge/-ExpressJs-343538?style=flat-square&logo=express&logoColor=white" />
+      <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-466ee3?style=flat-square&logo=yarn&logoColor=white" />
+      <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-e34665?style=flat-square&logo=ruby&logoColor=white" />
+      <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    </p>
 </p>
-
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/RizaMamedow)
-[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)](https://github.com/RizaMamedow)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/RizaMamedow)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/RizaMamedow)
-
-### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/RizaMamedow)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/RizaMamedow)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/RizaMamedow)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/RizaMamedow)
-[![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/RizaMamedow)
-
-### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/RizaMamedow)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/RizaMamedow)
 
 <p align="center">
   <a href="https://github.com/RizaMamedow">
