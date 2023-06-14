@@ -1,7 +1,7 @@
 <h1 align="center">Привет! <img src="https://slackmojis.com/emojis/6864-blob_hug/image/1643514684/blob_hug.png" alt="Hug" width="30"/></h1>
     
 <p align="center">
-    <b>Добро Пожаловать на мою страницу></b><br><br>
+    <b>Добро Пожаловать на мою страницу</b><br><br>
     <i>
         Я Риза.<br>
         На данный момент учусь в школе.<br>
