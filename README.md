@@ -5,7 +5,6 @@
     <i>
         Я Риза.<br>
         На данный момент учусь в школе.<br>
-        хочу найти работу програмимста.<br>
         живу в Ашхабаде. <img src="https://slackmojis.com/emojis/65719-turkmenistan/image/1683101837/turkmenistan.gif" alt="Flag" width="30"><br>
     </i><br>
     <a href="https://habr.com/ru/users/RizaMamedow/">
