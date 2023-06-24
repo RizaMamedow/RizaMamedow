@@ -10,7 +10,7 @@
     <a href="https://habr.com/ru/users/RizaMamedow/" target="_blank">
         <img src="https://img.shields.io/badge/Habr-blue?style=flat-square&logo=Habr" alt="Habr">
     </a>
-    <a href="https://t.me/ponchik_kruglyy" target="_blank">
+    <a href="https://t.me/krugleshock" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram" alt="Telegram">
     </a>
     <a href="https://stepik.org/users/365532990" target="_blank">
