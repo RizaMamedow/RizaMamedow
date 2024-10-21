@@ -38,6 +38,7 @@
       <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-466ee3?style=flat-square&logo=yarn&logoColor=white" />
       <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-e34665?style=flat-square&logo=ruby&logoColor=white" />
       <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+      <img alt="Swift" src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
     </p>
 </p>
 
