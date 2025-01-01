@@ -2,12 +2,14 @@
 
 # 👋 Hello, I'm Riza Mamedov!
 </div>
+
 ![Header](./assets/github-header.png)
 
 <div align="center">
 
 ## 🚀 About Me
 </div>
+
 My name is **Riza Mamedov**, and I'm 17 years old (turning 18 in 2025). I'm a developer with a strong passion for **Swift** and **SwiftUI**, focusing on creating modern, efficient, and user-friendly applications using **SwiftData**.
 
 While I might not be the most experienced developer yet, I have a genuine enthusiasm for learning and adapting quickly. I constantly strive to improve my skills and stay updated with the latest technologies. Whether it's building **backends with Django** or crafting dynamic **frontends with Next.js**, I approach every challenge with curiosity and determination.
