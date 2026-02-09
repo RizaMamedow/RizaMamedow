@@ -1,11 +1,6 @@
 <div align="center">
 
 # 👋 Hello, I'm Riza Mamedov!
-</div>
-
-![Header](./assets/github-header.png)
-
-<div align="center">
 
 ## 🚀 About Me
 </div>
