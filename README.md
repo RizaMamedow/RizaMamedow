@@ -17,10 +17,7 @@ While I might not be the most experienced developer yet, I have a genuine enthus
 ## 🛠️ Tech Stack
 </div>
 
-### Primary Expertise
 - **Swift** (SwiftUI, UIKit, Combine) 🍎
-
-### Additional Skills
 - **Backend**: Python (Django, DRF) 🐍
 - **Frontend**: TypeScript (Next.js, React) ⚛️
 
